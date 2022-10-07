@@ -1,0 +1,17 @@
+name: ArchLinux
+
+on:
+  push:
+    branches: [ master, dev ]
+  pull_request:
+    branches: [ master, dev ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    container: archlinux
+
+    steps:
+      - uses: actions/checkout@v3
+      - run:  ./test.sh

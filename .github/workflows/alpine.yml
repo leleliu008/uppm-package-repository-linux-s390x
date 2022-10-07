@@ -1,0 +1,23 @@
+name: AlpineLinux
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        tag: ['3.13', '3.14', '3.15']
+
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          # https://github.com/multiarch/qemu-user-static
+          docker run --rm --privileged multiarch/qemu-user-static --reset -p yes
+          docker run --rm -it -v $PWD:/root -w /root s390x/alpine:${{ matrix.tag }} ./test.sh
