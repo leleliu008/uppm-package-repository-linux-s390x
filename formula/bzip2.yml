@@ -1,0 +1,5 @@
+summary: Burrows–Wheeler-based data compression utilities with high compression ratio
+webpage: https://sourceware.org/bzip2
+version: 1.0.8 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/bzip2-1.0.8-linux-s390x.tar.xz 
+bin-sha: 1bb09c384a8f0d84a780e43b0a29519d820a29e2100817a723095b76f20bfb56

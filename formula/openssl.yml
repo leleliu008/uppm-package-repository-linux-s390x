@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.1.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/openssl-3.1.1-linux-s390x.tar.xz 
+bin-sha: 7d5e098421fc8d1ca0364db0e63267776a3360d93cd8915d794046c37cb2cc4f

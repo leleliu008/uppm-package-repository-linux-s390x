@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.19 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/ed-1.19-linux-s390x.tar.xz 
+bin-sha: 

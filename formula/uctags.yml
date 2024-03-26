@@ -1,0 +1,5 @@
+summary: Maintained ctags implementation
+webpage: https://ctags.io/
+version: 2023.06.23 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/uctags-2023.06.23-linux-s390x.tar.xz 
+bin-sha: 533c1ba54ac4f7025fd439b6a3c778b80ff6c263bac711a257eb8567e63f0d62

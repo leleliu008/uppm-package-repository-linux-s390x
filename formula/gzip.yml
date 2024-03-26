@@ -1,0 +1,5 @@
+summary: Popular GNU data compression program
+webpage: https://www.gnu.org/software/gzip
+version: 1.12 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/gzip-1.12-linux-s390x.tar.xz 
+bin-sha: d99ef9a9b38cceefa5fa4a2c1d59b9db0b97c7fa78ad85f9f1728dd25ed9fdd1

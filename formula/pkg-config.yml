@@ -1,0 +1,5 @@
+summary: Manage compile and link flags for libraries
+webpage: https://freedesktop.org/wiki/Software/pkg-config
+version: 0.29.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/pkg-config-0.29.2-linux-s390x.tar.xz 
+bin-sha: 276b9d73d97d43c4a4e40f27864123b274c16b3eb6b2a4337353687c3ae1cc09

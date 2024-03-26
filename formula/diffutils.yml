@@ -1,0 +1,5 @@
+summary: File comparison utilities
+webpage: https://www.gnu.org/software/diffutils
+version: 3.10 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/diffutils-3.10-linux-s390x.tar.xz 
+bin-sha: 9de86a9e588e935d49523c45ead46b56fe32175b0baae23f8d4cec3f72ce2979

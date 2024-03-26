@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.34 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/gtar-1.34-linux-s390x.tar.xz 
+bin-sha: b4ed224118a308ef50f0009c6563beb90ed50a1d05abc934430c4564acae0059

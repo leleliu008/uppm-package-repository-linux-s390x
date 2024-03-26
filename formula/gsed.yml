@@ -1,0 +1,5 @@
+summary: GNU implementation of the famous stream editor
+webpage: https://www.gnu.org/software/sed
+version: 4.9 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/gsed-4.9-linux-s390x.tar.xz 
+bin-sha: 3c359994bef7029e6a9dbd33e5af73bd52eebad5a86d9b8373b1cc9dc52af8a6

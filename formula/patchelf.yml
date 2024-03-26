@@ -1,0 +1,5 @@
+summary: a small utility to modify ELF files.
+webpage: https://github.com/NixOS/patchelf
+version: 0.18.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/patchelf-0.18.0-linux-s390x.tar.xz 
+bin-sha: 9a80c48cdf6d821701c4ae9051da86a8f3865069a1735eca5f3df6cb045167ca

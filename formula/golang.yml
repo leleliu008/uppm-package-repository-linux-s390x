@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+version: 1.20.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/golang-1.20.5-linux-s390x.tar.xz
+bin-sha: 3143354272b28e0bc4c36aac1f8cbeeb5728a504f4b94f561270cce8315422b7

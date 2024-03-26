@@ -1,0 +1,5 @@
+summary: base64 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.06.23 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/base64-2023.06.23-linux-s390x.tar.xz 
+bin-sha: d4f3c41d53cb09443b77947058a30d5d4ce12f8ab2b88ee757c0b96e1b81d08a

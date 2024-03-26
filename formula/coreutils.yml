@@ -1,0 +1,5 @@
+summary: GNU File, Shell, and Text utilities
+webpage: https://www.gnu.org/software/coreutils
+version: 9.3 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/coreutils-9.3-linux-s390x.tar.xz 
+bin-sha: fd4ddda3df78145a64476bc338c3fdef1d9b8e18369bf916b8283be5a5da028b
