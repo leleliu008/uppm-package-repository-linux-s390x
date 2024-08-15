@@ -1,0 +1,5 @@
+summary: A parallel implementation of gzip for modern multi-processor, multi-core machines
+webpage: https://zlib.net/pigz/
+version: 2.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/pigz-2.8-linux-s390x.tar.xz
+bin-sha: 67ec1430e9568dcddb32aab7b68293a987e754465afed1ee67a59d2c7d466151

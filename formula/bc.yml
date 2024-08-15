@@ -1,0 +1,5 @@
+summary: Arbitrary precision numeric processing language
+webpage: https://www.gnu.org/software/bc
+version: 1.07.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/bc-1.07.1-linux-s390x.tar.xz
+bin-sha: 39d075ca97696643214062d2860996f96bfaa92e75a9819dd6feb55846c2f975

@@ -1,0 +1,5 @@
+summary: Remote terminal application
+webpage: https://mosh.org/
+version: 1.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/mosh-1.4.0-linux-s390x.tar.xz
+bin-sha: 583281314d300e054b3bff84987349b8257ebe31efbf6e26a1b137d38dcc697f

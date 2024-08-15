@@ -1,0 +1,5 @@
+summary: A git extension for versioning large files
+webpage: https://github.com/git-lfs/git-lfs
+version: 3.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/git-lfs-3.5.1-linux-s390x.tar.xz
+bin-sha: c75e2bc2b087a90df3f5a16010f6f083c4a1dbdb87dab0e1cc4cf0898bed735f

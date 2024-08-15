@@ -1,0 +1,5 @@
+summary: A command-line tool that allows you to easily and securely send files from one computer to another
+webpage: https://github.com/schollz/croc
+version: 10.0.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/croc-10.0.11-linux-s390x.tar.xz
+bin-sha: 215122e44a1cb39cfde376edccb8c884a3c7376a80a0afca932bbe05227de44a

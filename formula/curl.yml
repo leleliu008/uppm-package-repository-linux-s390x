@@ -1,5 +1,5 @@
-summary: Get a file from an HTTP, HTTPS or FTP server
+summary: A command-line tool to get a file from an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
-version: 8.1.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/curl-8.1.2-linux-s390x.tar.xz 
-bin-sha: 348033ea690d6f722fdae0d7286ca9b43e55815cd5abaa0f7abaeb345b8fac2c
+version: 8.9.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/curl-8.9.1-linux-s390x.tar.xz
+bin-sha: 7a63c6002b6f651e2bb3c2e3b024c8181a0ddba4f1986163b4100b3ae6186530

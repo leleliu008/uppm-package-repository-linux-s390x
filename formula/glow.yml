@@ -1,0 +1,5 @@
+summary: Render markdown on the CLI
+webpage: https://github.com/charmbracelet/glow
+version: 1.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/glow-1.5.1-linux-s390x.tar.xz
+bin-sha: 9d36d54f7facc3e7f5a7a17eb8788db9e5e68017784a2aa71aaf3355c9b8b208

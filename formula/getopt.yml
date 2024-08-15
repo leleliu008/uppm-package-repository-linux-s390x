@@ -1,0 +1,5 @@
+summary: A command-line option parsing utility
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/getopt-2.40.2-linux-s390x.tar.xz
+bin-sha: e25b52dddb4596b19c4dcb982265cf2affc26b0c44dc155b85206dae809f3241

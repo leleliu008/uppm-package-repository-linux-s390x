@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.12.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/gogs-0.12.10-linux-s390x.tar.xz
+bin-sha: 41632b8a1bdf0f9e39061541cd020d2583d7b2ffaba4e0fbe2d66cecfc64dd2f

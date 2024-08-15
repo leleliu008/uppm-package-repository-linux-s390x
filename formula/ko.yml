@@ -1,0 +1,5 @@
+summary: A simple, fast container image builder for Go applications
+webpage: https://ko.build
+version: 0.16.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/ko-0.16.0-linux-s390x.tar.xz
+bin-sha: 7d86e515dc7c4e6d54b072d173288deb946788100271c0db3329223495d92f53

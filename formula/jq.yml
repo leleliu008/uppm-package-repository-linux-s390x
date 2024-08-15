@@ -1,5 +1,5 @@
-summary: Lightweight and flexible command-line JSON processor
+summary: A lightweight and flexible command-line JSON processor
 webpage: https://stedolan.github.io/jq
-version: 1.6 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/jq-1.6-linux-s390x.tar.xz 
-bin-sha: df81f5b794ed70dae57c3f7a8315f403abe223b7ffa92617c72b471080a503e9
+version: 1.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/jq-1.7.1-linux-s390x.tar.xz
+bin-sha: c2b4c56e5f13158c1fbd694de4fc830f2dc69407bce5b95890e9d5b445559dbc

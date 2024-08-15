@@ -1,0 +1,5 @@
+summary: Terminal multiplexer
+webpage: https://tmux.github.io
+version: 3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/tmux-3.4-linux-s390x.tar.xz
+bin-sha: a68686d8cb9032e33616212b3a22b44ed6b3a53dbf65bae930ac76ccbbf629b3

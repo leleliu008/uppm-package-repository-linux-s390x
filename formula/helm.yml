@@ -1,0 +1,5 @@
+summary: Kubernetes package manager
+webpage: https://helm.sh/
+version: 3.15.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/helm-3.15.3-linux-s390x.tar.xz
+bin-sha: 51008ac671d3bc49716725681b7d1ae29fb9de33548a7f10c05f4a09e0cdd322

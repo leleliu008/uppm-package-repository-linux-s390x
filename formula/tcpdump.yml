@@ -1,0 +1,5 @@
+summary: A command-line tool to analyze packet(TCP/IP)
+webpage: https://www.tcpdump.org/
+version: 4.99.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/tcpdump-4.99.4-linux-s390x.tar.xz
+bin-sha: bd34d0886f765c363e33277aee2e49ea816c753d051bb39fc6f60f410cddad58

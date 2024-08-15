@@ -1,0 +1,5 @@
+summary: Download with resuming and segmented downloading
+webpage: https://aria2.github.io
+version: 1.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/aria2-1.37.0-linux-musl-s390x.tar.xz
+bin-sha: 06c2feeed60f0d9a6e5370df73a9e43e485e74bd6a0ad61d454cac42896668fb

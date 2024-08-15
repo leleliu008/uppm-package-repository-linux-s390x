@@ -1,0 +1,5 @@
+summary: A simple terminal UI for git commands
+webpage: https://github.com/jesseduffield/lazygit
+version: 0.41.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/lazygit-0.41.0-linux-s390x.tar.xz
+bin-sha: 81b2bb6ee648fa42270a3a01bf909c3b5635b9e71782aa68976bc78274ebf63f

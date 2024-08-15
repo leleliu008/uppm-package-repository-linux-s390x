@@ -1,0 +1,5 @@
+summary: A fast and flexible static site generator
+webpage: https://gohugo.io
+version: 0.124.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/hugo-0.124.1-linux-musl-s390x.tar.xz
+bin-sha: c83f479e777d3bf11383995edd78e175f8a7f1505afd4cd1fd864ff6b2159bba

@@ -1,0 +1,5 @@
+summary: MP3 player
+webpage: https://www.mpg123.de/
+version: 1.32.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/mpg123-1.32.5-linux-s390x.tar.xz
+bin-sha: 395c25e217a29822c87d9d1f81dc2dfb630950bcf46ebaead065bb5f56b75131

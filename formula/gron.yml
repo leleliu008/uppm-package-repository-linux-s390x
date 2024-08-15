@@ -1,0 +1,5 @@
+summary: Make JSON greppable
+webpage: https://github.com/tomnomnom/gron
+version: 0.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/gron-0.7.1-linux-s390x.tar.xz
+bin-sha: 4c2636ae4b5494fed6992c778e2fc04d16413142d397f2e1b1dfb339dd85e124

@@ -1,0 +1,5 @@
+summary: Implementation of Telnet and SSH
+webpage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+version: 0.80
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/putty-0.80-linux-s390x.tar.xz
+bin-sha: 4f1735b70663c86ca1119ab6875b093cbcb11e48870781449ac78da22912ca62

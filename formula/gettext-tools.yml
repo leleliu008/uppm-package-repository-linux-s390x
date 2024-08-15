@@ -1,5 +1,5 @@
 summary: GNU internationalization (i18n) and localization (l10n) library
 webpage: https://www.gnu.org/software/gettext
-version: 0.21.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/gettext-tools-0.21.1-linux-s390x.tar.xz 
-bin-sha: 1fe24b72bedb03d0aa88579956f44d708ff7443faef58b9af8d52ffb44731438
+version: 0.22.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/gettext-tools-0.22.5-linux-s390x.tar.xz
+bin-sha: bae8ca21902dc7a0e05d01bad2f8fe4513bb1025b7f71aa025e57949de4d32d2

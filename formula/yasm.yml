@@ -1,0 +1,5 @@
+summary: Yet another assembler, a complete reimplementation of NASM
+webpage: https://yasm.tortall.net
+version: 1.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/yasm-1.3.0-linux-s390x.tar.xz
+bin-sha: d273d6b76754796b743554a87651f1f70768d538aeb91ad0cec2ced20d9b0dcf

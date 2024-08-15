@@ -1,0 +1,5 @@
+summary: Internet file retriever
+webpage: https://www.gnu.org/software/wget
+version: 1.24.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/wget-1.24.5-linux-s390x.tar.xz
+bin-sha: 5e29b7c30b1496c40ddfc5c6e3c8a010265ed0a34c442cb86af18ef4d73025ca

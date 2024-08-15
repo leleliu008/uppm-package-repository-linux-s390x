@@ -1,0 +1,5 @@
+summary: A command-line fuzzy finder written in Go
+webpage: https://github.com/junegunn/fzf
+version: 0.54.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/fzf-0.54.3-linux-s390x.tar.xz
+bin-sha: f9f57f0fc019bbf1bc410855b15983bd36f2ad0b29a55be3f6f83a4c9c8c59b3

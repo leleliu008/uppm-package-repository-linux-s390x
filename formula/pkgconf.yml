@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: http://pkgconf.org
-version: 1.9.5 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/pkgconf-1.9.5-linux-s390x.tar.xz 
-bin-sha: 0c622e82e04cbf77647f93cb09b44a8f310f46d89fcc88e1aa15ea07d47cb94c
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/pkgconf-2.1.1-linux-s390x.tar.xz
+bin-sha: 1ec10bcb2d3ccb27d6296c1352b3943fff74a684ecf16a03817e50d528e6ee52

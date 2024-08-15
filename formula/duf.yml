@@ -1,0 +1,5 @@
+summary: A better alternative to df(1)
+webpage: https://github.com/muesli/duf
+version: 0.8.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/duf-0.8.1-linux-s390x.tar.xz
+bin-sha: 1a1a034cd34eeb96b05491b6ca94fd9b6cf921977bff3bad4b2e5f8a3ceb2eb5

@@ -1,0 +1,5 @@
+summary: A collection of tools for glib
+webpage: https://developer.gnome.org/glib
+version: 2.80.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/glib-tools-2.80.0-linux-s390x.tar.xz
+bin-sha: aeb238d8efa03e036b06bd2ba1341982c2b9bf09b40a56c37e49da3a0ebb7f38

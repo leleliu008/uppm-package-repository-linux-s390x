@@ -1,0 +1,5 @@
+summary: New zlib (gzip, deflate) compatible compressor
+webpage: https://github.com/google/zopfli
+version: 1.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/zopfli-1.0.3-linux-s390x.tar.xz
+bin-sha: 699cf6d0503c5891127273e9267d1df239862ebc974680b44d91a58746ee8791

@@ -1,0 +1,5 @@
+summary: Top-like interface for container metrics
+webpage: https://ctop.sh
+version: 0.7.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/ctop-0.7.7-linux-s390x.tar.xz
+bin-sha: 93baa99b429906e21d230ec76123a6e98a8d42a03732178ae8ad77fc1734b9d4

@@ -1,0 +1,5 @@
+summary: GNU Pretty Good Privacy (PGP) package
+webpage: https://www.gnupg.org
+version: 2.4.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/gnupg-2.4.5-linux-s390x.tar.xz
+bin-sha: 2543a3ec0050e69fbf0c68da514910212ed954de3cc6bd9c95705325327255c9

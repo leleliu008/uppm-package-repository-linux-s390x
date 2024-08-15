@@ -1,5 +1,5 @@
 summary: BSD tar
 webpage: https://www.libarchive.org/
-version: 3.7.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2023.06.23/bsdtar-3.7.2-linux-s390x.tar.xz
-bin-sha: d0be8612c72c298317ebddab888a9436135a6cc503381c77a6f250d258d52487
+version: 3.7.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/bsdtar-3.7.4-linux-s390x.tar.xz
+bin-sha: 22ba063105bac9ec08b04a0a8aa962da2887ba8c5876f40bfcac954fff8d32bf

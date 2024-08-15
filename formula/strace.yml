@@ -1,0 +1,5 @@
+summary: Diagnostic, instructional, and debugging tool for the Linux kernel
+webpage: https://strace.io/
+version: 6.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/strace-6.8-linux-s390x.tar.xz
+bin-sha: 7d8e82523519272343ae77421bef46966dab61c6e6d9f84469cd52f99b7dd4ba
