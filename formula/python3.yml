@@ -1,0 +1,5 @@
+summary: python3 runtime
+webpage: https://www.python.org/
+version: 3.11.11
+bin-url: https://github.com/leleliu008/python-distribution/releases/download/3.11.11/python-3.11.11-linux-any-s390x.tar.xz
+bin-sha: c99105b5148f90bcc2645d81e0cad44fc54ec005faeed024e67a102216d65a17
