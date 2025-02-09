@@ -1,0 +1,5 @@
+summary: A few command-line utilities for working with desktop entries
+webpage: https://gitlab.freedesktop.org/xdg/desktop-file-utils
+version: 0.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/desktop-file-utils-0.28-linux-s390x.release.tar.xz
+bin-sha: 5557805973ca7aebd74fa30a7d6e9e26affad81b3c0b5761bd777e6e6fce4f77

@@ -1,0 +1,5 @@
+summary: File transfer program
+webpage: http://zsync.moria.org.uk/
+version: 0.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/zsync-0.6.2-linux-s390x.release.tar.xz
+bin-sha: 1b44991187ffc000e0805fa5bed23f3489712823e1acafc0263ea3713ab587ad

@@ -1,0 +1,5 @@
+summary: A command-line utility to work with AppStream metadata
+webpage: https://github.com/ximion/appstream
+version: 1.0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/appstream-1.0.4-linux-s390x.release.tar.xz
+bin-sha: 2e2d29aaa4bd33f953cf8a2710a2db80b6f38fd31254a30c80e717a16462ae19
