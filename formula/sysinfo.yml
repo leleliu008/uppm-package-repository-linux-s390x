@@ -1,5 +1,5 @@
 summary: A command-line tool to get your system information
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.08.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/sysinfo-2024.08.15-linux-s390x.tar.xz
-bin-sha: c94c134ca724aa0a092bc7d6f0851687f7c120023afe81460cbc6d502222e61e
+version: 2025.07.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-s390x/releases/download/2024.08.15/sysinfo-2025.07.06-linux-s390x.release.tar.xz
+bin-sha: 3fe5a2431484f4f9409b7af3a89bbd7546052f81c863a7bc7d93b2499fe589b7
