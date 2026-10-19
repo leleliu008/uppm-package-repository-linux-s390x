@@ -1,0 +1,6 @@
+summary: A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software
+webpage: https://ziglang.org/
+bin-url: https://ziglang.org/download/0.14.1/zig-s390x-linux-0.14.1.tar.xz
+bin-sha: 8e1bb63532ba22725f0a4a45e5c2920a8af508d8ca81e6007c330eec2b7033a6
+version: 0.14.1
+unpackd: bin
